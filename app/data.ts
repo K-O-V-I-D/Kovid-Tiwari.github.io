@@ -5,7 +5,7 @@ export const projects = [
     technologies: ["ReactJS", "AWS", "Firebase", "WebRTC", "Tailwind CSS", "TensorFlow JS", "OpenCV"],
     description: `Developed ConvoFlow and PeerMeet, React.js and WebRTC-based video conferencing apps. Supported 50 concurrent streams within a 50GB bandwidth limit. Automated AWS deployment with CI/CD and Docker, achieving 50% faster deployments. Enhanced security by implementing AWS WAF, mitigating 98% of web attacks. Utilized AWS, Firebase, Tailwind CSS, TensorFlowJs.`,
     githubLink: "https://github.com/K-O-V-I-D/ConvoFlow",
-    imagePath: "public/assets/projects/project-5.png",
+    imagePath: "/assets/projects/project-5.png",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const projects = [
     technologies: ["Python", "Flask", "Docker", "Kubernetes", "AWS", "CI/CD"],
     description: `Developed and deployed a Python-based cloud-native monitoring application using Flask, Docker, and Kubernetes. Containerized the app, pushed the Docker image to AWS ECR, and managed deployments on an EKS cluster. Enhanced operational efficiency by implementing Kubernetes deployments and services, including port forwarding and exposure.`,
     githubLink: "https://github.com/K-O-V-I-D/Deployment-of-Cloud-Native-Monitoring-Application-on-Kubernetes",
-    imagePath: "public/assets/projects/project-2.jpeg",
+    imagePath: "/assets/projects/project-2.jpeg",
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const projects = [
     technologies: ["Selenium", "JUnit", "Java", "Postman", "MySQL"],
     description: `The "Testing of Hospital Website" project focuses on enhancing the digital platform of Gem Hospital Coimbatore through comprehensive testing methodologies. Utilizing technologies like Selenium, JUnit, and Postman, the project ensures robust functionality, performance, and security. By automating UI interactions and validating APIs.`,
     githubLink: "https://github.com/K-O-V-I-D/Smart-Healthcare-Website-Testing-Automation",
-    imagePath: "https://surl.li/kyaedn",
+    imagePath: "/assets/projects/project-1.png",
   },
   {
     id: 4,
@@ -37,7 +37,15 @@ export const projects = [
     ],
     description: `Container Identity Access Management Protocol Container Identity Access Management (CIAM) is an application designed to manage the identity and access of containers within a virtualized environment. This protocol aims to provide a secure and efficient way to control and monitor container access, ensuring that only authorized users can interact with specific containers.`,
     githubLink: "https://github.com/K-O-V-I-D/CIAM",
-    imagePath: "public/assets/projects/project-3.png",
+    imagePath: "/assets/projects/project-3.png",
+  },
+  {
+    id: 5,
+    name: "InsightPro eCommerce Analytics Suite",
+    technologies: ["Python", "SQL", "PowerBI", "Google Analytics", "AWS", "Excel"],
+    description: `Developed InsightPro, an eCommerce analytics suite, integrating AI-driven tools to monitor, evaluate, and optimize sales and customer engagement. Analyzed 1M+ transactions, reducing cart abandonment by 25%. Enhanced marketing ROI by 40% via tailored insights. Streamlined operations, improving user retention by 30% across platforms.`,
+    githubLink: "https://github.com/K-O-V-I-D/InsightPro-eCommerce-Analytics-Suite",
+    imagePath: "https://surl.li/ysqvfu",
   },
 ];
 
