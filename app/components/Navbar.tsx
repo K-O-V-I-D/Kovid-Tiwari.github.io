@@ -18,7 +18,7 @@ export const Navbar: React.FC<Props> = ({ setHovered }) => {
     {
       id: 4,
       name: "Code-Base",
-      link: "https://k-o-v-i-d.github.io/Kovid-Tiwari.github.io/",
+      link: "https://github.com/K-O-V-I-D/Kovid-Tiwari.github.io",
     },
     {
       id: 5,
