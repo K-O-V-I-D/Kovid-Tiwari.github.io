@@ -1,6 +1,6 @@
 import { useScroll } from "framer-motion";
 import { useRef } from "react";
-import { projects } from "./app/data";
+import { projects } from "app/data.ts;
 import Card from "./Card";
 
 export default function Projects() {
