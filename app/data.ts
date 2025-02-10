@@ -21,7 +21,7 @@ export const projects = [
     technologies: ["Selenium", "JUnit", "Java", "Postman", "MySQL"],
     description: `The "Testing of Hospital Website" project focuses on enhancing the digital platform of Gem Hospital Coimbatore through comprehensive testing methodologies. Utilizing technologies like Selenium, JUnit, and Postman, the project ensures robust functionality, performance, and security. By automating UI interactions and validating APIs.`,
     githubLink: "https://github.com/K-O-V-I-D/Smart-Healthcare-Website-Testing-Automation",
-    imagePath: "public/assets/projects/project-1.png",
+    imagePath: "https://surl.li/kyaedn",
   },
   {
     id: 4,
